@@ -1,7 +1,7 @@
 Start http server in current folder:
--python: python -mSimpleHTTPServer
--nodejs: http-server ( https://www.npmjs.com/package/http-server )
+1. python: python -mSimpleHTTPServer
+2. nodejs: http-server ( https://www.npmjs.com/package/http-server )
 
 Service worker configuration in browser:
-- firefox: about:serviceworkers
-- chrome: chrome://inspect/#service-workers,  chrome://serviceworker-internals/ 
+1. firefox: about:serviceworkers
+2. chrome: chrome://inspect/#service-workers,  chrome://serviceworker-internals/
