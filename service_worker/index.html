@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Service worker example</title>
+    <script>
+        if('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('/sw.js').catch(e=>console.error('Ups!' + e));
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
