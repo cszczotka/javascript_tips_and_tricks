@@ -1,1 +1,1 @@
-# javascript_tips_and_tricks
+Set of javascript tips and tricks for learning/demo purpose.
